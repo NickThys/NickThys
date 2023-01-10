@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickthys&label=Profile%20views&color=0e75b6&style=flat" alt="nickthys" /> </p>
 
-- 🔭 I’m currently working on [SpotySync](https://github.com/NickThys/SpotySyncPOC)
+- 🔭 I’m currently working on [.net Hogwarts battle](https://github.com/NickThys/.NET-HogwartsBattle)
 
 - 📫 How to reach me **nick.thijs@hotmail.com**
 
